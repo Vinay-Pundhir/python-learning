@@ -1,2 +1,2 @@
-## repo for assignments submitions
+## Repo to submit assignments
 
