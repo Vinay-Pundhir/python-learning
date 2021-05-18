@@ -68,7 +68,7 @@ class CSVFile():
 
 class TextFile():
     """
-    check if a file is text file
+    class to handle text file
     """
     def __bool__(self):
         return FileHandler.file_type == 'txt'
