@@ -1,6 +1,5 @@
 import requests as req
 
-
 class MovieInfo():
     """
     find movies information
